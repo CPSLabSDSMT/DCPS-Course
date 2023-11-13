@@ -105,6 +105,8 @@ Some sample projects are listed below, and students can work on them to enhance 
 - [Pedestrian Environment Model for Automated Driving](https://github.com/holzbock/ped_env)
 
 [![Alt text](https://github.com/holzbock/ped_env/raw/main/overview.png)](link_url)
+=======
+[![Alt text](https://github.com/holzbock/ped_env/raw/main/overview.png)](link_url)
 
 #
 - [Traffic Dataset Development and Training models on that](https://github.com/tum-traffic-dataset/tum-traffic-dataset-dev-kit)
