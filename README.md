@@ -13,7 +13,7 @@
 - Aerospace
 - Smart Cities
 - Security
--Energy Systems
+- Energy Systems
 - Avionics
 
 
@@ -105,8 +105,6 @@ Some sample projects are listed below, and students can work on them to enhance 
 - [Pedestrian Environment Model for Automated Driving](https://github.com/holzbock/ped_env)
 
 [![Alt text](https://github.com/holzbock/ped_env/raw/main/overview.png)](link_url)
-=======
-[![Alt text](https://github.com/holzbock/ped_env/raw/main/overview.png)](link_url)
 
 #
 - [Traffic Dataset Development and Training models on that](https://github.com/tum-traffic-dataset/tum-traffic-dataset-dev-kit)
@@ -139,6 +137,11 @@ Some sample projects are listed below, and students can work on them to enhance 
 - [Robust MADER: Decentralized and Asynchronous Multiagent Trajectory Planner Robust to Communication Dela](https://github.com/mit-acl/rmader)
 
 [![Alt text](https://github.com/mit-acl/rmader/raw/master/rmader/imgs/4agent2obs_shorter.gif)](link_url)
+
+
+# Reading Materials
+- Edward Ashford Lee, Sanjit Arunkumar Seshia, "Introduction to Embedded Systems, Second Edition: A Cyber-Physical Systems Approach"
+- Israel Koren, C. Mani Krishna, "Fault-Tolerant Systems"
 
 # Assessment Criteria
 - Student pairs will craft a paper by leveraging existing CPS papers with available codes, applying acquired methods, and disseminating the obtained results through publication.
